@@ -1,0 +1,8 @@
+#jobwall {
+    width: 100%;
+    height: 100vw;
+}
+
+#cardDiv {
+    border: 2px solid black;
+}
